@@ -17,3 +17,12 @@ git checkout other-branch
 git stash pop          # Restore changes in new branch
 
 
+To delete tag locally:
+git push origin --delete v1.7
+
+To delete tag remotely:
+git push origin --delete v1.7
+
+
+
+
