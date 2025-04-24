@@ -1,5 +1,12 @@
 # CV Workshop -- Day 2
 
+![Git Branching Diagram](https://git-scm.com/book/en/v2/images/lr-branches-1.png)
+
+## Lab Tasks
+- Created branches: dev, test
+- Merged to main
+- Created tag v1.7
+
 To delete branches locally:
 
 git branch -d dev      # Delete dev branch locally
@@ -22,6 +29,7 @@ git push origin --delete v1.7
 
 To delete tag remotely:
 git push origin --delete v1.7
+
 
 
 
