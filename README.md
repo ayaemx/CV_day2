@@ -23,7 +23,6 @@ git push origin --delete v1.7
 To delete tag remotely:
 git push origin --delete v1.7
 
-img:
-![Git Workflow](https://git-scm.com/book/en/v2/images/lr-branches-1.png)
+
 
 
